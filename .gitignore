@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual env
+pip-log.txt
+
+# Distribution/build
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Logs
+*.log
+
+# dotenv
+.env
+
+# Cache
+.pytest_cache/
+.coverage
+coverage.xml
+
+# OneDrive sync artifacts
+~$*
